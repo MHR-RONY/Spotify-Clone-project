@@ -284,6 +284,15 @@ i {
      padding-top: 0.75rem;
   opacity: 0.7;
 }
+.player-control-icon-playmiddle{
+  opacity:0.7;
+  height: 2rem;
+  margin-right: 1.75rem;
+  padding-top: 0.75rem;
+}
+.player-control-icon-playmiddle:hover{
+  opacity: 1;
+}
 .player-control-icon:hover{
   opacity: 1;
 }
@@ -331,9 +340,29 @@ i {
   flex-wrap: nowrap;
   flex-direction: row;
 }
-.cont-icons{
-  height: 30px;
+.cont-iconscoimg4{
+  height: 23px;
   padding:0 10px 0 10px;
+  opacity: 0.70;
+}
+.cont-iconscoimg5{
+  height: 28px;
+  padding:0 10px 0 10px;
+  opacity: 0.70;
+}
+.cont-icons{
+  height: 40px;
+  padding:0 10px 0 10px;
+  opacity: 0.70;
+}
+.cont-icons:hover{
+opacity: 1;
+}
+.cont-iconscoimg4:hover{
+  opacity: 1;
+}
+.cont-iconscoimg5:hover{
+  opacity: 1;
 }
 
 
